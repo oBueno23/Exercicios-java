@@ -1,3 +1,5 @@
+package Exercicio1;
+
 import java.util.Scanner;
 
 public class Main {
@@ -16,7 +18,7 @@ public class Main {
         System.out.println("Escolha a operação:");
         System.out.println("1. Adição");
         System.out.println("2. Subtração");
-        System.out.println("3. Multiplicação ");
+        System.out.println("3. Multiplicação");
         System.out.println("4. Divisão");
 
         int operacao = scanner.nextInt();
